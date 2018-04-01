@@ -48,6 +48,7 @@ h2 {
     padding: 10px;
     float: left;
     width: 47%;
+    height: 300px;
 }
 
 .scores {
@@ -57,6 +58,7 @@ h2 {
     padding: 10px;
     float: left;
     width: 47%;
+    height: 300px;
 }
 
 .crystals {
@@ -75,5 +77,21 @@ h2 {
     margin-right: 20px;
 }
 
+.computerguess p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.userscore p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.scores p {
+    font-weight: bold;
+    font-size: 30px;
+}
 
 
