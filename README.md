@@ -1,6 +1,8 @@
 # unit-4-game
 Crystal Collector Game Made with jQuery
 
+![Crystal Collector](Images/gamescreenshot.png)
+
 * How the game works
 
 1. The computer generates a random number on the screen.
